@@ -7,3 +7,9 @@
 ## Contact me
 
 Mientras continúo mi camino en el desarrollo Full Stack, estoy siempre en búsqueda de proyectos colaborativos y oportunidades donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conéctate conmigo y exploremos cómo podemos crear algo increíble juntos!
+
+## Languages
+
+- Spanish
+- English
+- Portuguese
